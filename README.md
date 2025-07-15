@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Parnaraj Vaidya
 
-<!--
-**Parnaraj1234/Parnaraj1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 Frontend Developer | C/C++ & Java Programmer
 
-Here are some ideas to get you started:
+Hi there! I'm **Parnaraj Vaidya**, a passionate frontend developer who loves building beautiful, responsive, and user-friendly websites. I enjoy crafting pixel-perfect designs with modern HTML, CSS (and advanced CSS), and bringing them to life with JavaScript and DOM manipulation. I also have a strong foundation in programming with C, C++, and Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parnarajvaidyadev&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: vaidyaparnaraj@gmail.com
+- 🌍 Portfolio: *(Coming Soon...)*
+
+Thanks for visiting my profile! Let's build something amazing together 🚀
+
