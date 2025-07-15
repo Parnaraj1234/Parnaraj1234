@@ -22,13 +22,6 @@ Hi there! I'm **Parnaraj Vaidya**, a passionate frontend developer who loves bui
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parnarajvaidyadev&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
 
 ## 📫 Connect with Me
 
